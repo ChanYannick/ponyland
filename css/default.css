@@ -1,13 +1,10 @@
 body{
-<<<<<<< HEAD
-    font-family: "Times New Roman";
-   
-=======
-   
+
+    font-family: "Times New Roman"; 
     color: #dde569;
     font-weight: 800;
     background-color:pink; 
->>>>>>> newdesign
+
 }
 
 .clearfix{
