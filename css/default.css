@@ -1,5 +1,8 @@
 body{
-    font-family: "Arial";
+    font-family: "Garamond";
+    color: #dde569;
+    font-weight: 800;
+    background-color:pink; 
 }
 
 .clearfix{
